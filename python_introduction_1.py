@@ -12,10 +12,6 @@ print( cup )
 name_of_city = "Peshwar"
 print(name_of_city)
 
-nameofcity = 'lahore'
-print(nameofcity)
-
-
 #  ******* Python Statement, Indentation and Comments ********
 # Python Indentation
 
