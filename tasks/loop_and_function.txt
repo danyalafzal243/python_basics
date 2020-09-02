@@ -1,0 +1,42 @@
+# loop exercise
+
+Exercise Question 1: Print First 10 natural numbers using while loop
+Exercise Question 2: Print the following pattern
+Exercise Question 4: Print multiplication table of given number
+
+Exercise Question 5: Given a list iterate it and display numbers which are divisible by 5 and if you find number greater than 150 stop the loop iteration
+	list1 = [12, 15, 32, 42, 55, 75, 122, 132, 150, 180, 200]
+
+Exercise Question 6: Given a number count the total number of digits in a number
+Exercise Question 8: Reverse the following list using for loop
+	list1 = [10, 20, 30, 40, 50]
+
+Exercise Question 9: Display -10 to -1 using for loop
+
+Exercise Question 10: Display a message “Done” after successful execution of for loop
+
+
+
+# ---------------------- functions's exercise ------------------
+Exercise Question 1: Create a function that can accept two arguments name and age and print its value. 
+	demo("jawad", 33) # -> jawad age is 33
+
+Exercise Question 2: Write a function calculation() such that it can accept two variables and calculate the  subtraction of it. and return value. 
+	calculation(40, 10) # -> 30 
+
+Exercise Question 3: Write a function calculation() such that it can accept two variables and calculate the  sum of it. and return value. # 
+	calculation(40, 10) # ->  50
+
+Exercise Question 4: Create a function showEmployee() in such a way that it should accept employee name, and it’s salary and display both, and if the salary is missing in function call it should show it as 9000
+# showEmployee("Ben", 6000) # -> Employee Ben, salary is: 6000
+# showEmployee("Ben") # -> Employee Ben, salary is: 9000
+
+
+Exercise Question 5: Generate a Python list of all the even numbers between 4 to 30
+ get_even_list() # -> [4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28]
+
+ Exercise Question 6: Return the largest item from the given list
+ items = [4, 6, 8, 24, 12, 2]
+
+ get_max(items) # -> 24
+
