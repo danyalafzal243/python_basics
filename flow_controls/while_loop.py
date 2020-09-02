@@ -1,10 +1,10 @@
 # ================ example 1 ================
 i = 0
-while(i < 5):
+while(i < 6):
     i += 1
     print(i, " Code to execute")
 
-print("rest of code")
+print("rest of code") #?
 
 # ================ example 2 ================
 user_choice = 'y' 
@@ -47,3 +47,10 @@ while(4 == 4):
         continue    
     else:
         break
+
+# ========================================= 
+if(True):
+    pass
+
+
+
