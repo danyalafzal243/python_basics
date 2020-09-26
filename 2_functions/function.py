@@ -3,14 +3,21 @@ def greet_user():
     print("Welcome !!")
 
 
-greet_user() # calling function
+#greet_user() # calling function
 
 
 # ==================== function parameters example 1 ================
 def add(val1, val2):
     print(val1 + val2)
 
-add(4, 6)
+#add(4, 6)
+
+# ==================== function parameters example 1 ================
+def main(m):
+    #print('gggf')
+	 if(m  == 'fab'):
+		 print("spy")
+main('fab')
 
 # ==================== function parameters example 2 ================
 def sub(val1, val2):
@@ -36,5 +43,5 @@ def chay_ba_sok_rawri():
     kas = random.choice(group)
     return kas
 
-print(chay_ba_sok_rawri()) 
+#print(chay_ba_sok_rawri()) 
 
