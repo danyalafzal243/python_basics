@@ -43,5 +43,6 @@ def chay_ba_sok_rawri():
     kas = random.choice(group)
     return kas
 
+
 #print(chay_ba_sok_rawri()) 
 
